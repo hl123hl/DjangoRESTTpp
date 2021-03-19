@@ -33,7 +33,7 @@ Django==1.11.7
 django-celery==3.2.2
 django-redis==4.10.0
 django-tinymce==2.7.0
-djangorestframework==3.9.0
+djangorestframework==3.11.2
 dominate==2.3.4
 entrypoints==0.2.3
 Flask==1.0.2
