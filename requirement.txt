@@ -128,7 +128,7 @@ tinycm==0.1.29
 tornado==5.1.1
 traitlets==4.3.2
 Twisted==17.9.0
-urllib3==1.23
+urllib3==1.26.5
 vine==1.1.4
 visitor==0.1.3
 w3lib==1.19.0
